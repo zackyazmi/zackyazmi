@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Zacky Ilahi Azmi</h1>
-<h3 align="center">I am currently a computer science student motivated to develop my skills and grow professionally. I have much interest in developing and programming. I love creating new inventions that make work easier and currently aim to create new products that have a big impact on the world and beneft to many people. I learn quickly, carefully, hard-working, responsible, and highly adaptable person. I have good organizational skills and capabilities for heavy workloads and good knowledge of iOS Dev such as Swift, UIKit, SwiftUI, etc.</h3>
+Hi There! 👋, 
+
+I'm Zacky Ilahi Azmi, I am currently a computer science student motivated to develop my skills and grow professionally. I have much interest in developing and programming. I love creating new inventions that make work easier and currently aim to create new products that have a big impact on the world and beneft to many people. I learn quickly, carefully, hard-working, responsible, and highly adaptable person. I have good organizational skills and capabilities for heavy workloads and good knowledge of iOS Dev such as Swift, UIKit, SwiftUI, etc.
 
 - 📫 How to reach me **zackyilahi.azmi@gmail.com**
 
