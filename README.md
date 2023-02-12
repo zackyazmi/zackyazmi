@@ -3,12 +3,22 @@
 # Zacky's Portfolio
 Hi There! 👋, I'm Zacky, A bachelor's graduate with a Computer Science major. Having experience in developing software development, particularly iOS development through the opportunity to join the Apple Developer Academy and have made many applications using the Swift language and UIKit & SwiftUI frameworks, as well as other frameworks such as Core Data, MVVM Architecture, etc. Currently, I am motivated to develop my competencies and skills in software development by creating new inventions/products that make a big impact and benefit the community.
 
+---
+
 ## 1. Fluffi
 
 ![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Fluffi%20600x200.png "Fluffi")
 
 ### App Description
-An app that connects pet owners and pet hotels so that owners can find a reliable place to leave their pets while they are away.
+- An app that connects pet owners and pet hotels so that owners can find a reliable place to leave their pets while they are away.
+
+### Tech Stack
+- UIKit Programatically
+- RxSwift (Reactive Programming)
+- Core Data
+- Core Location
+- NextJs (Website App for Pet Hotels)
+- Rest API (Laravel for Databases)
 
 ### Video Promotional
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=o6sDQrKSa2w
@@ -20,20 +30,51 @@ alt="DH4GXhzh-Js" width="220" height="160" border="10" /></a>
 
 ![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Fluffi%202900x300.png "Fluffi")
 
+---
+
 ## 2. How To: Pempek |  WWDC22 Winner
 
-![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/How%20To_%20Pempek%20600x200.png)
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/How%20To_%20Pempek%20600x200.png "How To: Pempek")
 
 ### App Description
 Introducing How To: Pempek, an educational app that gives you a comprehensive guide on making Pempek, a well-known traditional food from Palembang, South Sumatra. Pempek is a dish made from a mixture of ground fish meat, flour, and other ingredients. Our app includes information on different types of Pempek such as Pempek Kapal Selam, Pempek Adaan, Pempek Lenjer, etc. The app also includes instructions on how to serve it with the traditional Pempek sauce, Cuko Pempek and cucumber.
 
+### Tech Stack
+- SwiftUI
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/How%20To_%20Pempek%202-3.jpg "How To: Pempek")
+
+---
+
 ## 3. Stashy
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Frame%205-3.png "Stashy")
+
 ### App Description
 Stashy is an financial education app for children. This app aims to help parents teach their children about the value of money by forming a saving habit.
 
+### Tech Stack
+- UIKit Programatically, Storyboard, & XIB
+- CoreData
+- MonthYearPicker Package
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Banner%202900x300-2.png "Stashy")
+
+---
+
 ## 4. Comvie
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Comvie.jpg "Comvie")
+
 ### App Description
 Comvie is a native iOS app that helps users in finding the right movie recommendaion with the attempt to minimize their time and effort in deciding what to watch.
+
+### Tech Stack
+- UIKit Prototype & XIB
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Comvie%202.png "Comvie")
+
+---
 
 ## 5. Routine
 ### App Description
