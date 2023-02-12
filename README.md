@@ -24,6 +24,9 @@ Hi There! 👋, I'm Zacky, A bachelor's graduate with a Computer Science major. 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=o6sDQrKSa2w
 " target="_blank"><img src="http://img.youtube.com/vi/o6sDQrKSa2w/0.jpg" 
 alt="o6sDQrKSa2w" width="220" height="160" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_Wapn82GmPI
+" target="_blank"><img src="http://img.youtube.com/vi/_Wapn82GmPI/0.jpg" 
+alt="_Wapn82GmPI" width="220" height="160" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DH4GXhzh-Js
 " target="_blank"><img src="http://img.youtube.com/vi/DH4GXhzh-Js/0.jpg" 
 alt="DH4GXhzh-Js" width="220" height="160" border="10" /></a>
