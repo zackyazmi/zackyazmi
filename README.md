@@ -99,6 +99,7 @@ Introducing Routine, an app that helps you manage your daily tasks, with a sched
 Closet is your ultimate wardrobe management app that helps you keep track of your clothes, style preferences and analytics, and the clothes you wear on a daily basis. With Closet, it's easy to remember what clothes you have, track the types and colors of clothes you own, and separate the clothes you no longer wear.
 
 ### Tech Stack
+- UIKit Storyboard
 
 ![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Closet%202.jpg "Closet")
 
