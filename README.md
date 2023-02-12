@@ -7,6 +7,9 @@ Hi There! 👋, I'm Zacky, A bachelor's graduate with a Computer Science major. 
 An app that connects pet owners and pet hotels so that owners can find a reliable place to leave their pets while they are away.
 
 ## How To: Pempek |  WWDC22 Winner
+
+![Tech](https://github.com/zackyazmi/zackyazmi/blob/main/How%20To_%20Pempek%20600x200.png)
+
 Introducing How To: Pempek, an educational app that gives you a comprehensive guide on making Pempek, a well-known traditional food from Palembang, South Sumatra. Pempek is a dish made from a mixture of ground fish meat, flour, and other ingredients. Our app includes information on different types of Pempek such as Pempek Kapal Selam, Pempek Adaan, Pempek Lenjer, etc. The app also includes instructions on how to serve it with the traditional Pempek sauce, Cuko Pempek and cucumber.
 
 ## Stashy
