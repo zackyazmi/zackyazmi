@@ -77,12 +77,32 @@ Comvie is a native iOS app that helps users in finding the right movie recommend
 ---
 
 ## 5. Routine
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Routine.png "Routine")
+
 ### App Description
 Introducing Routine, an app that helps you manage your daily tasks, with a scheduler and reminder feature that prioritizes your tasks based on time. Keep track of your schedule and stay on top of your to-do list with this easy-to-use task management tool.
 
+### Tech Stack
+- SwiftUI
+- CoreData
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Routine%202-2.jpg "Routine")
+
+---
+
 ## 6. Closet
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Closet.png "Closet")
+
 ### App Description
 Closet is your ultimate wardrobe management app that helps you keep track of your clothes, style preferences and analytics, and the clothes you wear on a daily basis. With Closet, it's easy to remember what clothes you have, track the types and colors of clothes you own, and separate the clothes you no longer wear.
+
+### Tech Stack
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Closet%202.jpg "Closet")
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
