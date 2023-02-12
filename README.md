@@ -1,27 +1,38 @@
-![Tech](https://github.com/zackyazmi/zackyazmi/blob/main/Zacky%202900x300-2.png)
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Zacky%202900x300-2.png "Zacky Header")
 
 # Zacky's Portfolio
 Hi There! 👋, I'm Zacky, A bachelor's graduate with a Computer Science major. Having experience in developing software development, particularly iOS development through the opportunity to join the Apple Developer Academy and have made many applications using the Swift language and UIKit & SwiftUI frameworks, as well as other frameworks such as Core Data, MVVM Architecture, etc. Currently, I am motivated to develop my competencies and skills in software development by creating new inventions/products that make a big impact and benefit the community.
 
 ## Fluffi
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Fluffi%20600x200.png "Fluffi")
+
+### App Description
 An app that connects pet owners and pet hotels so that owners can find a reliable place to leave their pets while they are away.
+
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Fluffi%202900x300.png "Fluffi")
 
 ## How To: Pempek |  WWDC22 Winner
 
-![Tech](https://github.com/zackyazmi/zackyazmi/blob/main/How%20To_%20Pempek%20600x200.png)
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/How%20To_%20Pempek%20600x200.png)
 
+### App Description
 Introducing How To: Pempek, an educational app that gives you a comprehensive guide on making Pempek, a well-known traditional food from Palembang, South Sumatra. Pempek is a dish made from a mixture of ground fish meat, flour, and other ingredients. Our app includes information on different types of Pempek such as Pempek Kapal Selam, Pempek Adaan, Pempek Lenjer, etc. The app also includes instructions on how to serve it with the traditional Pempek sauce, Cuko Pempek and cucumber.
 
 ## Stashy
+### App Description
 Stashy is an financial education app for children. This app aims to help parents teach their children about the value of money by forming a saving habit.
 
 ## Comvie
+### App Description
 Comvie is a native iOS app that helps users in finding the right movie recommendaion with the attempt to minimize their time and effort in deciding what to watch.
 
 ## Routine
+### App Description
 Introducing Routine, an app that helps you manage your daily tasks, with a scheduler and reminder feature that prioritizes your tasks based on time. Keep track of your schedule and stay on top of your to-do list with this easy-to-use task management tool.
 
 ## Closet
+### App Description
 Closet is your ultimate wardrobe management app that helps you keep track of your clothes, style preferences and analytics, and the clothes you wear on a daily basis. With Closet, it's easy to remember what clothes you have, track the types and colors of clothes you own, and separate the clothes you no longer wear.
 
 <h3 align="left">Connect with me:</h3>
