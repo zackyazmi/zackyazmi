@@ -11,12 +11,12 @@ Hi There! 👋, I'm Zacky, A bachelor's graduate with a Computer Science major. 
 An app that connects pet owners and pet hotels so that owners can find a reliable place to leave their pets while they are away.
 
 ### Video Promotional
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/DH4GXhzh-Js
-" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/DH4GXhzh-Js/0.jpg" 
-alt="https://youtu.be/DH4GXhzh-Js" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=o6sDQrKSa2w
+" target="_blank"><img src="http://img.youtube.com/vi/o6sDQrKSa2w/0.jpg" 
+alt="o6sDQrKSa2w" width="220" height="160" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DH4GXhzh-Js
+" target="_blank"><img src="http://img.youtube.com/vi/DH4GXhzh-Js/0.jpg" 
+alt="DH4GXhzh-Js" width="220" height="160" border="10" /></a>
 
 ![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Fluffi%202900x300.png "Fluffi")
 
