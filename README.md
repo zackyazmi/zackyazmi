@@ -1,3 +1,5 @@
+![Tech](https://github.com/zackyazmi/zackyazmi/blob/main/Zacky%202900x300-2.png)
+
 Hi There! 👋, 
 
 I'm Zacky, A bachelor's graduate with a Computer Science major. Having experience in developing software development, particularly iOS development through the opportunity to join the Apple Developer Academy and have made many applications using the Swift language and UIKit & SwiftUI frameworks, as well as other frameworks such as Core Data, MVVM Architecture, etc. Currently, I am motivated to develop my competencies and skills in software development by creating new inventions/products that make a big impact and benefit the community.
