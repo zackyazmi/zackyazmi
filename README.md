@@ -1,6 +1,6 @@
 Hi There! 👋, 
 
-I'm Zacky Ilahi Azmi, I am currently a computer science student motivated to develop my skills and grow professionally. I have much interest in developing and programming. I love creating new inventions that make work easier and currently aim to create new products that have a big impact on the world and beneft to many people. I learn quickly, carefully, hard-working, responsible, and highly adaptable person. I have good organizational skills and capabilities for heavy workloads and good knowledge of iOS Dev such as Swift, UIKit, SwiftUI, etc.
+A bachelor's graduate with a Computer Science major. Having experience in developing software development, particularly iOS development through the opportunity to join the Apple Developer Academy and have made many applications using the Swift language and UIKit & SwiftUI frameworks, as well as other frameworks such as Core Data, MVVM Architecture, etc. Currently, I am motivated to develop my competencies and skills in software development by creating new inventions/products that make a big impact and benefit the community.
 
 - 📫 How to reach me **zackyilahi.azmi@gmail.com**
 
