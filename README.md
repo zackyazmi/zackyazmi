@@ -3,35 +3,43 @@
 # Zacky's Portfolio
 Hi There! 👋, I'm Zacky, A bachelor's graduate with a Computer Science major. Having experience in developing software development, particularly iOS development through the opportunity to join the Apple Developer Academy and have made many applications using the Swift language and UIKit & SwiftUI frameworks, as well as other frameworks such as Core Data, MVVM Architecture, etc. Currently, I am motivated to develop my competencies and skills in software development by creating new inventions/products that make a big impact and benefit the community.
 
-## Fluffi
+## 1. Fluffi
 
 ![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Fluffi%20600x200.png "Fluffi")
 
 ### App Description
 An app that connects pet owners and pet hotels so that owners can find a reliable place to leave their pets while they are away.
 
+### Video Promotional
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://youtu.be/DH4GXhzh-Js
+" target="_blank"><img src="http://img.youtube.com/vi/https://youtu.be/DH4GXhzh-Js/0.jpg" 
+alt="https://youtu.be/DH4GXhzh-Js" width="240" height="180" border="10" /></a>
+
 ![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Fluffi%202900x300.png "Fluffi")
 
-## How To: Pempek |  WWDC22 Winner
+## 2. How To: Pempek |  WWDC22 Winner
 
 ![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/How%20To_%20Pempek%20600x200.png)
 
 ### App Description
 Introducing How To: Pempek, an educational app that gives you a comprehensive guide on making Pempek, a well-known traditional food from Palembang, South Sumatra. Pempek is a dish made from a mixture of ground fish meat, flour, and other ingredients. Our app includes information on different types of Pempek such as Pempek Kapal Selam, Pempek Adaan, Pempek Lenjer, etc. The app also includes instructions on how to serve it with the traditional Pempek sauce, Cuko Pempek and cucumber.
 
-## Stashy
+## 3. Stashy
 ### App Description
 Stashy is an financial education app for children. This app aims to help parents teach their children about the value of money by forming a saving habit.
 
-## Comvie
+## 4. Comvie
 ### App Description
 Comvie is a native iOS app that helps users in finding the right movie recommendaion with the attempt to minimize their time and effort in deciding what to watch.
 
-## Routine
+## 5. Routine
 ### App Description
 Introducing Routine, an app that helps you manage your daily tasks, with a scheduler and reminder feature that prioritizes your tasks based on time. Keep track of your schedule and stay on top of your to-do list with this easy-to-use task management tool.
 
-## Closet
+## 6. Closet
 ### App Description
 Closet is your ultimate wardrobe management app that helps you keep track of your clothes, style preferences and analytics, and the clothes you wear on a daily basis. With Closet, it's easy to remember what clothes you have, track the types and colors of clothes you own, and separate the clothes you no longer wear.
 
