@@ -21,7 +21,7 @@ Hi There! 👋, I'm Zacky, A bachelor's graduate with a Computer Science major. 
 - Rest API (Laravel for Databases)
 
 ### App Preview
-
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Fluffi%20App%20Preview%401x.png "Fluffi")
 
 ### Video Promotional
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=o6sDQrKSa2w
