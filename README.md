@@ -48,6 +48,9 @@ Introducing How To: Pempek, an educational app that gives you a comprehensive gu
 ### Tech Stack
 - SwiftUI
 
+### App Preview
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/How%20To%20Pempek%20App%20Preview.png "How To: Pempek")
+
 ![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/How%20To_%20Pempek%202-3.jpg "How To: Pempek")
 
 ---
@@ -93,6 +96,9 @@ Introducing Routine, an app that helps you manage your daily tasks, with a sched
 - SwiftUI
 - CoreData
 
+### App Preview
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Routine%20App%20Preview.png "Routine")
+
 ![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Routine%202-2.jpg "Routine")
 
 ---
@@ -106,6 +112,9 @@ Closet is your ultimate wardrobe management app that helps you keep track of you
 
 ### Tech Stack
 - UIKit Storyboard
+
+### App Preview
+![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Closet%20App%20Preview.png "Closet")
 
 ![alt text](https://github.com/zackyazmi/zackyazmi/blob/main/Closet%202.jpg "Closet")
 
